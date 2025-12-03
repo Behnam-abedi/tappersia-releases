@@ -1,14 +1,14 @@
 {
     "name": "Tappersia",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "homepage": "https://www.tappersia.com",
     "download_url": "https://raw.githubusercontent.com/Behnam-abedi/tappersia-releases/main/tappersia.zip",
     "requires": "5.5",
     "tested": "6.6",
     "requires_php": "7.4",
-    "last_updated": "2025-12-03 19:17:37",
+    "last_updated": "2025-12-03 19:37:39",
     "sections": {
         "description": "A modern banner management plugin.",
-        "changelog": "<h4>Version 1.0.1</h4><ul><li>plugin prepared for release</li>\n<li>plugin prepared for release</li>\n<li>plugin prepared for release</li>\n<li>remove all comment until the end</li>\n<li>remove all comment until the end of css folder</li>\n<li>remove all comment until the end of composables folder</li>\n<li>remove all comment until the end of banner types folder</li>\n<li>remove all comment until the end of updater folder</li></ul>"
+        "changelog": "<h4>Version 1.0.2</h4><ul><li>add description file for developers</li></ul>"
     }
 }
