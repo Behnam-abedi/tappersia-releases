@@ -1,14 +1,14 @@
 {
     "name": "Tappersia",
-    "version": "1.1.8",
+    "version": "1.1.9",
     "homepage": "https://www.tappersia.com",
     "download_url": "https://raw.githubusercontent.com/Behnam-abedi/tappersia-releases/main/tappersia.zip",
     "requires": "5.5",
     "tested": "6.6",
     "requires_php": "7.4",
-    "last_updated": "2025-12-22 18:55:27",
+    "last_updated": "2025-12-22 19:52:29",
     "sections": {
         "description": "A modern banner management plugin.",
-        "changelog": "<h4>Version 1.1.8</h4><ul><li>change a fix and add importert exportet system</li>\n<li>change a fix and add importert exportet system</li>\n<li>change a fix and add importert exportet system</li>\n<li>change all issue</li></ul>"
+        "changelog": "<h4>Version 1.1.9</h4><ul><li>add security layer in import file</li>\n<li>add security layer in import file</li></ul>"
     }
 }
