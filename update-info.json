@@ -1,14 +1,14 @@
 {
     "name": "Tappersia",
-    "version": "1.0.7",
+    "version": "1.1.8",
     "homepage": "https://www.tappersia.com",
     "download_url": "https://raw.githubusercontent.com/Behnam-abedi/tappersia-releases/main/tappersia.zip",
     "requires": "5.5",
     "tested": "6.6",
     "requires_php": "7.4",
-    "last_updated": "2025-12-12 12:36:26",
+    "last_updated": "2025-12-22 18:55:27",
     "sections": {
         "description": "A modern banner management plugin.",
-        "changelog": "<h4>Version 1.0.7</h4><ul><li>add auto container width</li></ul>"
+        "changelog": "<h4>Version 1.1.8</h4><ul><li>change a fix and add importert exportet system</li>\n<li>change a fix and add importert exportet system</li>\n<li>change a fix and add importert exportet system</li>\n<li>change all issue</li></ul>"
     }
 }
