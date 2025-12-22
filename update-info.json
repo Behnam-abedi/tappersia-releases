@@ -1,14 +1,14 @@
 {
     "name": "Tappersia",
-    "version": "1.1.10",
+    "version": "1.1.12",
     "homepage": "https://www.tappersia.com",
     "download_url": "https://raw.githubusercontent.com/Behnam-abedi/tappersia-releases/main/tappersia.zip",
     "requires": "5.5",
     "tested": "6.6",
     "requires_php": "7.4",
-    "last_updated": "2025-12-22 19:59:18",
+    "last_updated": "2025-12-22 20:12:57",
     "sections": {
         "description": "A modern banner management plugin.",
-        "changelog": "<h4>Version 1.1.10</h4><ul><li>add security layer in import file</li></ul>"
+        "changelog": "<h4>Version 1.1.12</h4><ul><li>fix all button render</li></ul>"
     }
 }
